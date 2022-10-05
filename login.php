@@ -3,6 +3,8 @@
 <meta charset="utf-8">
 <title>请输入用户名和密码</title>
 </head>
+<style type="text/css">
+<style="color:red;text-align:center">
 <body>
 用户名：<input type="text" id="us"><br>
 密码：<input type="password" id="pass"><br>
